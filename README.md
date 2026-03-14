@@ -21,7 +21,6 @@
 > | MBR Override | 🟢|
 
 ## Toolkit for Skiddies
->
-> [Download](https://drive.google.com/file/d/15a5rldkGKZizEj9g34wJYN0nFt8pCncx/view?usp=sharing) - [Open Source]
-> (https://github.com/HydraDragonAntivirus/PrivateMalwareLeaks2026/tree/main/MalToolKit%205.2/bettermaltoolkit5.2fixedbyhydra)
-> [Made by HydraDragonAntivirus](https://github.com/Siradankullanici)
+
+ [Download](https://drive.google.com/file/d/15a5rldkGKZizEj9g34wJYN0nFt8pCncx/view?usp=sharing) - [Open Source](https://github.com/HydraDragonAntivirus/PrivateMalwareLeaks2026/tree/main/MalToolKit%205.2/bettermaltoolkit5.2fixedbyhydra) -
+ [Made by](https://github.com/Siradankullanici)
